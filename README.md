@@ -2,16 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Index</title>
+    <title>Introduction</title>
 </head>
-<body style ="background-color: blueviolet;">
-<h1 style="color: hotpink;"> Alayna Owens</h1>
-<h2 style="color: azure;"> afowens@aggies.ncat.edu</h2>
-<p style="color: aqua;"> I am a senior Computer Engineering student from Charleston, SC.<br> My favorite color is black.<br> My favorite artist is Kid Cudi. </p>
-<img src="IMG_0891.jpg" width="300"height ="300" alt="Moon" >
-<br>
-<a href="Introduction.html" >Visit my other website</a>
-<br>
-<a href="little_prince.html"> Little Prince</a>
+<body>
+<h1> Senior, Computer Engineering</h1>
+<h2>Proficient in Java, C++, GitHub, Xilinx, ModelSim, Basys3 board, Android Studio, Website Editing, Yearbook Publications and Editing, Microsoft Office, Products;<br> Skilled in the maintenance and updating of Windows 8 /10 Software and iOS Software
+</h2>
+<h3> Made games in Comp 167(163), made programs that were codes for a traffic light, decoded images</h3>
+<img src="kidcudi.jpg" alt="Birds">
+<img src="apollo11fullmoon.jpg" alt="Flowers in China">
+<a href="Index.html">Visit my other website</a>
 </body>
 </html>
